@@ -1,0 +1,17 @@
+{
+  "name": "cn.zhouzelong.lframework",
+  "version": "1.0.0",
+  "displayName": "LFramework",
+  "description": "Unity Framework",
+  "unity": "2019.4",
+  "dependencies": {
+  },
+  "keywords": [
+    "Mvvm",
+    "Ioc",
+    "Framework"
+  ],
+  "author": {
+    "name": "zhouzelong"
+  }
+}
